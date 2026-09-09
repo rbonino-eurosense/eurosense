@@ -18,7 +18,7 @@ import os
 IDselect = 1  #set to 1 if you want to select specific metaID
 metaID = "MVE"
 
-print ( os.listdir("../R Eurosense Data/"))
+print ( os.listdir("Data"))
 file_path = "../R Eurosense Data/2026.06.08/CSVExport-2026.06.08_translated.csv"
 ##file_path = "./cca+climate/cca+climate.csv"
 
