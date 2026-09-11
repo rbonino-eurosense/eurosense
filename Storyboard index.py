@@ -9,7 +9,7 @@ Create a storyboard with an index of stories
 """
 import pandas as pd
 
-# Load the CSV file into a padas DataFrame
+# Load the CSV file into a pandas DataFrame
 file_path = "./Data/2026.06.08/CSVExport-2026.06.08_chargediandDigicomEURAI.csv"
 # file_path = "./cca+climate/cca+climate.csv"
 df = pd.read_csv(file_path)
