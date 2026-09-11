@@ -1,2 +1,2 @@
 # eurosense
-Contains curret python code for Eurosense
+Contains current python code for Eurosense
